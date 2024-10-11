@@ -1,13 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://692.github.io/note</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://692.github.io/note</link></image><lastBuildDate>Fri, 11 Oct 2024 18:43:50 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Gmeek 超轻量级个人博客，All in Github</title><link>https://692.github.io/note/post/Gmeek%20-chao-qing-liang-ji-ge-ren-bo-ke-%EF%BC%8CAll%20in%20Github.html</link><description>&gt; ## 推荐项目&#13;
-&gt; &#13;
-&gt;     * 项目地址：https://github.com/Meekdai/Gmeek&#13;
-&gt; &#13;
-&gt; &#13;
-&gt;     * 类别：Python&#13;
-&gt; &#13;
-&gt; &#13;
-&gt;     * 项目标题：Gmeek 超轻量级个人博客，All in Github&#13;
-&gt; &#13;
-&gt; &#13;
-&gt;     * 项目描述：完全基于`Github Pages` 、 `Github Issues` 和 `Github Actions`。</description><guid isPermaLink="true">https://692.github.io/note/post/Gmeek%20-chao-qing-liang-ji-ge-ren-bo-ke-%EF%BC%8CAll%20in%20Github.html</guid><pubDate>Fri, 11 Oct 2024 18:43:20 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>Blog Title</title><link>https://692.github.io/note</link><description>Blog description</description><copyright>Blog Title</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://692.github.io/note</link></image><lastBuildDate>Fri, 11 Oct 2024 18:56:19 +0000</lastBuildDate><managingEditor>Blog Title</managingEditor><ttl>60</ttl><webMaster>Blog Title</webMaster><item><title>Gmeek 超轻量级个人博客，All in Github</title><link>https://692.github.io/note/post/Gmeek%20-chao-qing-liang-ji-ge-ren-bo-ke-%EF%BC%8CAll%20in%20Github.html</link><description>Gmeek快速上手&#13;
+=========&#13;
+&#13;
+[](https://blog.meekdai.com/ '首页')[](https://github.com/Meekdai/meekdai.github.io/issues/39 'Issue')[](https://blog.meekdai.com/post/Gmeek-kuai-su-shang-shou.html '切换主题')&#13;
+&#13;
+[Gmeek](https://github.com/Meekdai/Gmeek) 一个博客框架，超轻量级个人博客模板，完全基于`Github Pages` 、 `Github Issues` 和 `Github Actions`，可以称作`All in Github`。</description><guid isPermaLink="true">https://692.github.io/note/post/Gmeek%20-chao-qing-liang-ji-ge-ren-bo-ke-%EF%BC%8CAll%20in%20Github.html</guid><pubDate>Fri, 11 Oct 2024 18:43:20 +0000</pubDate></item></channel></rss>
