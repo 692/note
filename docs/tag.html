@@ -10,8 +10,13 @@
         let theme = localStorage.getItem("meek_theme") || "light";
         document.documentElement.setAttribute("data-color-mode", theme);
     </script>
-<meta name="description" content="MGT note search page">
-<title>MGT note - Tag</title>
+<meta name="description" content="麦谷糖的博客">
+<meta property="og:title" content="MGT note">
+<meta property="og:description" content="麦谷糖的博客">
+<meta property="og:type" content="blog">
+<meta property="og:url" content="https://note.mgta.us.kg">
+<meta property="og:image" content="https://raw.githubusercontent.com/692/img/refs/heads/gh-pages/favicon-0.ico">
+<title>MGT note</title>
 
 </head>
 <style>
@@ -50,18 +55,19 @@ body{box-sizing: border-box;min-width: 200px;max-width: 900px;margin: 20px auto;
 
 <body>
     <div id="header">
-<span class="tagTitle"><span>Loading</span><span class="AnimatedEllipsis"></span></span>
+<h1>
+    <img src="https://raw.githubusercontent.com/692/img/refs/heads/gh-pages/favicon-0.ico" class="avatar circle" id="avatarImg" alt="avatar"><a class="blogTitle">MGT note</a></h1>
 <div class="title-right">
-    <div class="subnav-search">
-        <input type="search" class="form-control subnav-search-input float-left" aria-label="Search site" value="" style="height:32px;">
-        <button class="btn float-left" type="submit" onclick="javascript:searchShow()">搜索</button>
-        <svg class="subnav-search-icon octicon octicon-search" width="16" height="16" viewBox="0 0 16 16" aria-hidden="true">
-            <path id="searchSVG" fill-rule="evenodd"></path>
+    <a href="https://note.mgta.us.kg/tag.html" id="buttonSearch" class="btn btn-invisible circle" title="搜索">
+        <svg class="octicon" width="16" height="16" >
+            <path id="pathSearch" fill-rule="evenodd"></path>
         </svg>
-    </div>
-    <a href="https://note.mgta.us.kg" id="buttonHome" class="btn btn-invisible circle" title="首页">
-        <svg class="octicon" width="16" height="16">
-            <path id="pathHome" fill-rule="evenodd"></path>
+    </a>
+    
+    
+    <a href="https://note.mgta.us.kg/rss.xml" target="_blank" id="buttonRSS" class="btn btn-invisible circle" title="RSS">
+        <svg class="octicon" width="16" height="16" >
+            <path id="pathRSS" fill-rule="evenodd"></path>
         </svg>
     </a>
     <a class="btn btn-invisible circle" onclick="modeSwitch()" title="切换主题">
