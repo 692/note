@@ -7,6 +7,6 @@
     "onePageListNum":20,
     "yearColorList":["#bbb", "#aaa", "#999", "#888"],
     "singlePage":["about"],
-    "showPostSource":"1",
+    "showPostSource":1,
     "script":"<script src='https://692.github.io/code/note/articletoc.js'></script><script src='https://692.github.io/code/note/backtop.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
 }
