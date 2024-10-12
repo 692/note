@@ -1,8 +1,8 @@
 ---
-name: 通用模板
+name: mark
 about: Describe this issue template's purpose here.
 title: ''
-labels: "."
+labels: mark
 assignees: ''
 
 ---
