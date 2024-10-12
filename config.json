@@ -8,5 +8,5 @@
     "yearColorList":["#bbb", "#aaa", "#999", "#888"],
     "singlePage":["about"],
     "showPostSource":"1",
-    "script":"<script src='https://note.mgta.us.kg/plugins/GmeekTOC.js'></script><script src='https://note.mgta.us.kg/plugins/articletoc.js'></script></script><script src='https://note.mgta.us.kg/plugins/lightbox.js'></script>"
+    "script":"<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
 }
