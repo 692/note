@@ -1,10 +1,11 @@
 {
     "title":"MGT note",
-    "subTitle":"麦谷糖的博客",
+    "subTitle":"生生不息，止于至善",
     "avatarUrl":"/avatar.svg",
     "GMEEK_VERSION":"last",
     "homeUrl":"https://note.mgta.us.kg",
-    "onePageListNum":20,
+    "onePageListNum":20,,
+    "yearColorList":["#bbb", "#aaa", "#999", "#888"],
     "singlePage":["about"],
     "showPostSource":"1"
 }
