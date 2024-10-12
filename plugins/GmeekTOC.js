@@ -32,7 +32,7 @@ document.addEventListener("DOMContentLoaded", function() {
     var css = `
     .toc {
         position:fixed;
-        top:130px;
+        top:120px;
         left:50%;
         transform: translateX(50%) translateX(320px);
         width:200px;
