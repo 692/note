@@ -1,6 +1,9 @@
 {
-    "title":"MGTA",
+    "title":"MGT note",
     "subTitle":"麦谷糖的博客",
-    "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "avatarUrl":"https://github.com/692.png",
+    "GMEEK_VERSION":"last",
+    "homeUrl":"https://note.mgta.us.kg"，
+    "onePageListNum":20,
+    "showPostSource":1,
 }
