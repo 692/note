@@ -7,5 +7,7 @@
     "onePageListNum":20,
     "yearColorList":["#bbb", "#aaa", "#999", "#888"],
     "singlePage":["about"],
-    "showPostSource":"1"
+    "showPostSource":"1",
+    "script":"<script src='/plugins/GmeekTOC.js'></script>",
+    "script":"<script src='/plugins/articletoc.js'></script>"
 }
