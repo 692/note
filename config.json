@@ -1,8 +1,10 @@
 {
     "title":"MGT note",
     "subTitle":"麦谷糖的博客",
-    "avatarUrl":"https://github.com/692.png",
+    "avatarUrl":"https://raw.githubusercontent.com/692/img/refs/heads/gh-pages/favicon-0.ico",
     "GMEEK_VERSION":"last",
-    "homeUrl":"https://note.mgta.us.kg",
+    "homeUrl":"https://note.mgta.us.kg",,
+    "onePageListNum":20,
+    "singlePage":["about"],
     "showPostSource":"1"
 }
