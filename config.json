@@ -8,6 +8,6 @@
     "yearColorList":["#bbb", "#aaa", "#999", "#888"],
     "singlePage":["about"],
     "showPostSource":1,
-    "indexStyle":"<link rel="stylesheet" type="text/css" href="https://692.github.io/code/note/index.css">",
+    "indexStyle":"<style>@import url(https://692.github.io/code/note/index.css)</style>"，
     "script":"<script src='https://692.github.io/code/note/articletoc.js'></script><script src='https://692.github.io/code/note/backtop.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
 }
