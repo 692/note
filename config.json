@@ -8,5 +8,6 @@
     "yearColorList":["#bbb", "#aaa", "#999", "#888"],
     "singlePage":["about"],
     "showPostSource":1,
-    "script":"<script src='https://692.github.io/code/note/articletoc.js'></script><script src='https://692.github.io/code/note/backtop.js'></script><script src='https://692.github.io/code/note/image-swipe.js'></script>"
+    "indexStyle":"<script> body {width:1280px;}"</style>,
+    "script":"<script src='https://692.github.io/code/note/articletoc.js'></script><script src='https://692.github.io/code/note/backtop.js'></script><script src='https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js'></script>"
 }
