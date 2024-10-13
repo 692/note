@@ -8,6 +8,6 @@
     "yearColorList":["#bbb", "#aaa", "#999", "#888"],
     "singlePage":["about"],
     "showPostSource":1,
-    "indexStyle":"<script> body {width:1280px;}</script>",
-    "script":"<script src='https://692.github.io/code/note/articletoc.js'></script><script src='https://692.github.io/code/note/backtop.js'></script><script src='https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0/dist/fancybox.umd.js'></script>"
+    "indexStyle":"<script src='https://692.github.io/code/note/index.css'></script>",
+    "script":"<script src='https://692.github.io/code/note/articletoc.js'></script><script src='https://692.github.io/code/note/backtop.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
 }
