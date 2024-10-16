@@ -39,6 +39,7 @@
 
 ```
 
+[官方说明文档](https://thumbsup.github.io/docs/3-configuration/misc-settings/)
 #### 5\. 选择主题
 
 你可以从以下主题中选择一个：
