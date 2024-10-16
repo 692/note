@@ -1,4 +1,4 @@
- ### 项目介绍
+ ### 项目介绍 ：[GitHub链接](https://github.com/gautamkrishnar/github-pages-gallery)
 
 `github-pages-gallery` 是一个开源项目，旨在帮助用户使用Github Pages和Github Actions免费搭建和托管照片/视频画廊。该项目提供了一个零成本的解决方案，无需编写代码，只需通过Github的Web界面即可完成所有操作。
 
