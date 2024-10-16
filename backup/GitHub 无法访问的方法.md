@@ -10,7 +10,7 @@ C:\Windows\System32\drivers\etc\hosts
 151.101.184.133 raw.githubusercontent.com
 151.101.185.194 gist.githubusercontent.com
 ```
-
+<a href="https://hosts.gitcdn.top/hosts.txt" target="_blank">hosts.txt</a>
 # 方法二：DNS 解析
 使用一些公共的 DNS 服务，如 Google 的 8.8.8.8。
 刷新 DNS 缓存： 执行命令刷新 DNS 缓存，确保新的 DNS 设置生效。
