@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>MGT note</title><link>https://github.com/692/note</link><description>生生不息，止于至善</description><copyright>MGT note</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/avatar.svg</url><title>avatar</title><link>https://github.com/692/note</link></image><lastBuildDate>Wed, 16 Oct 2024 16:28:35 +0000</lastBuildDate><managingEditor>MGT note</managingEditor><ttl>60</ttl><webMaster>MGT note</webMaster><item><title>使用Github Pages和Github Actions搭建免费照片/视频相册</title><link>https://github.com/692/note/post/shi-yong-Github%20Pages-he-Github%20Actions-da-jian-mian-fei-zhao-pian---shi-pin-xiang-ce.html</link><description> ### 项目介绍 ：[GitHub链接](https://github.com/gautamkrishnar/github-pages-gallery)&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>MGT note</title><link>https://692.github.io/note</link><description>生生不息，止于至善</description><copyright>MGT note</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/avatar.svg</url><title>avatar</title><link>https://692.github.io/note</link></image><lastBuildDate>Thu, 17 Oct 2024 07:28:13 +0000</lastBuildDate><managingEditor>MGT note</managingEditor><ttl>60</ttl><webMaster>MGT note</webMaster><item><title>使用Github Pages和Github Actions搭建免费照片/视频相册</title><link>https://692.github.io/note/post/shi-yong-Github%20Pages-he-Github%20Actions-da-jian-mian-fei-zhao-pian---shi-pin-xiang-ce.html</link><description> ### 项目介绍 ：[GitHub链接](https://github.com/gautamkrishnar/github-pages-gallery)&#13;
 &#13;
-`github-pages-gallery` 是一个开源项目，旨在帮助用户使用Github Pages和Github Actions免费搭建和托管照片/视频画廊。</description><guid isPermaLink="true">https://github.com/692/note/post/shi-yong-Github%20Pages-he-Github%20Actions-da-jian-mian-fei-zhao-pian---shi-pin-xiang-ce.html</guid><pubDate>Wed, 16 Oct 2024 06:19:11 +0000</pubDate></item><item><title>GitHub 无法访问的方法</title><link>https://github.com/692/note/post/GitHub%20-wu-fa-fang-wen-de-fang-fa.html</link><description># 方法一：修改 Hosts 文件&#13;
+`github-pages-gallery` 是一个开源项目，旨在帮助用户使用Github Pages和Github Actions免费搭建和托管照片/视频画廊。</description><guid isPermaLink="true">https://692.github.io/note/post/shi-yong-Github%20Pages-he-Github%20Actions-da-jian-mian-fei-zhao-pian---shi-pin-xiang-ce.html</guid><pubDate>Wed, 16 Oct 2024 06:19:11 +0000</pubDate></item><item><title>GitHub 无法访问的方法</title><link>https://692.github.io/note/post/GitHub%20-wu-fa-fang-wen-de-fang-fa.html</link><description># 方法一：修改 Hosts 文件&#13;
 Hosts路径： &#13;
 ```md&#13;
 C:\Windows\System32\drivers\etc\hosts&#13;
@@ -16,7 +16,7 @@ C:\Windows\System32\drivers\etc\hosts&#13;
 &gt;或者使用这个文件：&lt;https://hosts.gitcdn.top/hosts.txt'&gt;&#13;
 &#13;
 # 方法二：DNS 解析&#13;
-使用一些公共的 DNS 服务，如 Google 的 8.8.8.8。</description><guid isPermaLink="true">https://github.com/692/note/post/GitHub%20-wu-fa-fang-wen-de-fang-fa.html</guid><pubDate>Mon, 14 Oct 2024 16:40:25 +0000</pubDate></item><item><title>CloudFlare优选汇总</title><link>https://github.com/692/note/post/CloudFlare-you-xuan-hui-zong.html</link><description>https://cf.090227.xyz维护的优选官方域名&#13;
+使用一些公共的 DNS 服务，如 Google 的 8.8.8.8。</description><guid isPermaLink="true">https://692.github.io/note/post/GitHub%20-wu-fa-fang-wen-de-fang-fa.html</guid><pubDate>Mon, 14 Oct 2024 16:40:25 +0000</pubDate></item><item><title>CloudFlare优选汇总</title><link>https://692.github.io/note/post/CloudFlare-you-xuan-hui-zong.html</link><description>https://cf.090227.xyz维护的优选官方域名&#13;
 cf.090227.xyz#三网自适应分流官方优选&#13;
 ct.090227.xyz#电信官方优选&#13;
 cmcc.090227.xyz#移动官方优选&#13;
@@ -89,7 +89,7 @@ https://stock.hostmonit.com/CloudFlareYes&#13;
 ------&#13;
 &#13;
 HTTP支持端口：80，8080，8880，2052，2082，2086，2095；&#13;
-HTTPS支持端口：443，2053，2083，2087，2096，8443。</description><guid isPermaLink="true">https://github.com/692/note/post/CloudFlare-you-xuan-hui-zong.html</guid><pubDate>Mon, 14 Oct 2024 11:33:28 +0000</pubDate></item><item><title>gitblog@yihong0618博客安装教程</title><link>https://github.com/692/note/post/gitblog%40yihong0618-bo-ke-an-zhuang-jiao-cheng.html</link><description># 新建一个仓库gitblog&#13;
+HTTPS支持端口：443，2053，2083，2087，2096，8443。</description><guid isPermaLink="true">https://692.github.io/note/post/CloudFlare-you-xuan-hui-zong.html</guid><pubDate>Mon, 14 Oct 2024 11:33:28 +0000</pubDate></item><item><title>gitblog@yihong0618博客安装教程</title><link>https://692.github.io/note/post/gitblog%40yihong0618-bo-ke-an-zhuang-jiao-cheng.html</link><description># 新建一个仓库gitblog&#13;
 &#13;
 ## 新建仓库G_KEY&#13;
 &#13;
@@ -103,7 +103,7 @@ settings--&gt;secrets and variables--&gt;Actions--&gt;new repository secrets,名
 &gt; 注意：这个G_KEY会在后面的gene_readme.yml文件中使用&#13;
 &#13;
 ------&#13;
-下载yihong0618开源的[这个项目](https://github.com/yihong0618/gitblog)，将其中除了feed.xml的文件全部copy到第一步项目中。</description><guid isPermaLink="true">https://github.com/692/note/post/gitblog%40yihong0618-bo-ke-an-zhuang-jiao-cheng.html</guid><pubDate>Sun, 13 Oct 2024 10:37:19 +0000</pubDate></item><item><title>月份英文缩写</title><link>https://github.com/692/note/post/yue-fen-ying-wen-suo-xie.html</link><description>一月 January = Jan&#13;
+下载yihong0618开源的[这个项目](https://github.com/yihong0618/gitblog)，将其中除了feed.xml的文件全部copy到第一步项目中。</description><guid isPermaLink="true">https://692.github.io/note/post/gitblog%40yihong0618-bo-ke-an-zhuang-jiao-cheng.html</guid><pubDate>Sun, 13 Oct 2024 10:37:19 +0000</pubDate></item><item><title>月份英文缩写</title><link>https://692.github.io/note/post/yue-fen-ying-wen-suo-xie.html</link><description>一月 January = Jan&#13;
 &#13;
 二月 February = Feb&#13;
 &#13;
@@ -125,7 +125,7 @@ settings--&gt;secrets and variables--&gt;Actions--&gt;new repository secrets,名
 &#13;
 十一月 November = Nov&#13;
 &#13;
-十二月 December = Dec。</description><guid isPermaLink="true">https://github.com/692/note/post/yue-fen-ying-wen-suo-xie.html</guid><pubDate>Sun, 13 Oct 2024 09:42:58 +0000</pubDate></item><item><title>图片测试</title><link>https://github.com/692/note/post/tu-pian-ce-shi.html</link><description>图
+十二月 December = Dec。</description><guid isPermaLink="true">https://692.github.io/note/post/yue-fen-ying-wen-suo-xie.html</guid><pubDate>Sun, 13 Oct 2024 09:42:58 +0000</pubDate></item><item><title>图片测试</title><link>https://692.github.io/note/post/tu-pian-ce-shi.html</link><description>图
 
 ![4K_2023_오토살롱위크___레이싱모델__유민___(Racing_Model)_Auto_Salon_Week_모터쇼_Moter_Show_(_2023.9.8)_1-24_screenshot.jpg](https://github.com/user-attachments/assets/8c5c1964-4865-40f4-8fdb-b7568416960a)
 
@@ -139,20 +139,20 @@ settings--&gt;secrets and variables--&gt;Actions--&gt;new repository secrets,名
 
 ![모델_김유민_2023_오토살롱위크_직캠_#2_Model_Kim_Yumin_2023_Auto_Salon_Week_Fancam_핫팬츠_2023.09.08_3-10_screenshot.jpg](https://github.com/user-attachments/assets/8b97754d-8c11-4c9c-a064-6e9cff8cdc16)
 
-。</description><guid isPermaLink="true">https://github.com/692/note/post/tu-pian-ce-shi.html</guid><pubDate>Sat, 12 Oct 2024 19:47:05 +0000</pubDate></item><item><title>Markdown语法总览</title><link>https://github.com/692/note/post/Markdown-yu-fa-zong-lan.html</link><description>## 在线 Markdown 编辑器&#13;
-- 地址：[点击前往](https://markdown.buxiantang.top/)。</description><guid isPermaLink="true">https://github.com/692/note/post/Markdown-yu-fa-zong-lan.html</guid><pubDate>Sat, 12 Oct 2024 04:44:58 +0000</pubDate></item><item><title>好用的Windows应用推荐</title><link>https://github.com/692/note/post/hao-yong-de-Windows-ying-yong-tui-jian.html</link><description>好用的Windows应用推荐&#13;
+。</description><guid isPermaLink="true">https://692.github.io/note/post/tu-pian-ce-shi.html</guid><pubDate>Sat, 12 Oct 2024 19:47:05 +0000</pubDate></item><item><title>Markdown语法总览</title><link>https://692.github.io/note/post/Markdown-yu-fa-zong-lan.html</link><description>## 在线 Markdown 编辑器&#13;
+- 地址：[点击前往](https://markdown.buxiantang.top/)。</description><guid isPermaLink="true">https://692.github.io/note/post/Markdown-yu-fa-zong-lan.html</guid><pubDate>Sat, 12 Oct 2024 04:44:58 +0000</pubDate></item><item><title>好用的Windows应用推荐</title><link>https://692.github.io/note/post/hao-yong-de-Windows-ying-yong-tui-jian.html</link><description>好用的Windows应用推荐&#13;
 ==============&#13;
 &#13;
 [](https://blog.meekdai.com/ '首页')[](https://github.com/Meekdai/meekdai.github.io/issues/48 'Issue')[](https://blog.meekdai.com/post/hao-yong-de-Windows-ying-yong-tui-jian.html '切换主题')&#13;
 &#13;
-那些我必安装的Awesome Windows App推荐。</description><guid isPermaLink="true">https://github.com/692/note/post/hao-yong-de-Windows-ying-yong-tui-jian.html</guid><pubDate>Fri, 11 Oct 2024 20:44:38 +0000</pubDate></item><item><title>markdown测试页面</title><link>https://github.com/692/note/post/markdown-ce-shi-ye-mian.html</link><description>markdown测试页面&#13;
+那些我必安装的Awesome Windows App推荐。</description><guid isPermaLink="true">https://692.github.io/note/post/hao-yong-de-Windows-ying-yong-tui-jian.html</guid><pubDate>Fri, 11 Oct 2024 20:44:38 +0000</pubDate></item><item><title>markdown测试页面</title><link>https://692.github.io/note/post/markdown-ce-shi-ye-mian.html</link><description>markdown测试页面&#13;
 ============&#13;
 &#13;
 [](https://blog.meekdai.com/ '首页')[](https://github.com/Meekdai/meekdai.github.io/issues/4 'Issue')[](https://blog.meekdai.com/post/markdown-ce-shi-ye-mian.html '切换主题')&#13;
 &#13;
-这是一个markdown格式的测试页面，也是个人经常会使用的格式记录。</description><guid isPermaLink="true">https://github.com/692/note/post/markdown-ce-shi-ye-mian.html</guid><pubDate>Fri, 11 Oct 2024 20:21:21 +0000</pubDate></item><item><title>Gmeek 超轻量级个人博客，All in Github</title><link>https://github.com/692/note/post/Gmeek%20-chao-qing-liang-ji-ge-ren-bo-ke-%EF%BC%8CAll%20in%20Github.html</link><description>Gmeek快速上手&#13;
+这是一个markdown格式的测试页面，也是个人经常会使用的格式记录。</description><guid isPermaLink="true">https://692.github.io/note/post/markdown-ce-shi-ye-mian.html</guid><pubDate>Fri, 11 Oct 2024 20:21:21 +0000</pubDate></item><item><title>Gmeek 超轻量级个人博客，All in Github</title><link>https://692.github.io/note/post/Gmeek%20-chao-qing-liang-ji-ge-ren-bo-ke-%EF%BC%8CAll%20in%20Github.html</link><description>Gmeek快速上手&#13;
 =========&#13;
 &#13;
 [](https://blog.meekdai.com/ '首页')[](https://github.com/Meekdai/meekdai.github.io/issues/39 'Issue')[](https://blog.meekdai.com/post/Gmeek-kuai-su-shang-shou.html '切换主题')&#13;
 &#13;
-[Gmeek](https://github.com/Meekdai/Gmeek) 一个博客框架，超轻量级个人博客模板，完全基于`Github Pages` 、 `Github Issues` 和 `Github Actions`，可以称作`All in Github`。</description><guid isPermaLink="true">https://github.com/692/note/post/Gmeek%20-chao-qing-liang-ji-ge-ren-bo-ke-%EF%BC%8CAll%20in%20Github.html</guid><pubDate>Fri, 11 Oct 2024 18:43:20 +0000</pubDate></item><item><title>about</title><link>https://github.com/692/note/about.html</link><description>这是我的网络笔记本，保存一些有趣的文章。</description><guid isPermaLink="true">https://github.com/692/note/about.html</guid><pubDate>Sat, 12 Oct 2024 07:41:27 +0000</pubDate></item></channel></rss>
+[Gmeek](https://github.com/Meekdai/Gmeek) 一个博客框架，超轻量级个人博客模板，完全基于`Github Pages` 、 `Github Issues` 和 `Github Actions`，可以称作`All in Github`。</description><guid isPermaLink="true">https://692.github.io/note/post/Gmeek%20-chao-qing-liang-ji-ge-ren-bo-ke-%EF%BC%8CAll%20in%20Github.html</guid><pubDate>Fri, 11 Oct 2024 18:43:20 +0000</pubDate></item><item><title>about</title><link>https://692.github.io/note/about.html</link><description>这是我的网络笔记本，保存一些有趣的文章。</description><guid isPermaLink="true">https://692.github.io/note/about.html</guid><pubDate>Sat, 12 Oct 2024 07:41:27 +0000</pubDate></item></channel></rss>
