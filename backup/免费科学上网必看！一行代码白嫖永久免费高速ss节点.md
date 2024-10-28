@@ -1,6 +1,6 @@
 谷歌colab【[点击直达](https://colab.research.google.com/)】   （https://colab.research.google.com/）
 
-运行时在代码前面加一行 ：!pip install pyaes
+运行时在代码前面加一行 ： `!pip install pyaes`
 
 相关代码【[点击直达](https://raw.githubusercontent.com/zzzhhh1/ssvpn/refs/heads/main/ss12)】
 
