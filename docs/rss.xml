@@ -1,5 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>MGT note</title><link>https://692.github.io/note</link><description>生生不息，止于至善</description><copyright>MGT note</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/avatar.svg</url><title>avatar</title><link>https://692.github.io/note</link></image><lastBuildDate>Tue, 22 Oct 2024 05:57:18 +0000</lastBuildDate><managingEditor>MGT note</managingEditor><ttl>60</ttl><webMaster>MGT note</webMaster><item><title>支持WebDAV的网盘汇总</title><link>https://692.github.io/note/post/zhi-chi-WebDAV-de-wang-pan-hui-zong.html</link><description>支持WebDAV的网盘汇总&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>MGT note</title><link>https://692.github.io/note</link><description>生生不息，止于至善</description><copyright>MGT note</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>/avatar.svg</url><title>avatar</title><link>https://692.github.io/note</link></image><lastBuildDate>Mon, 28 Oct 2024 18:40:40 +0000</lastBuildDate><managingEditor>MGT note</managingEditor><ttl>60</ttl><webMaster>MGT note</webMaster><item><title>免费科学上网必看！一行代码白嫖永久免费高速ss节点</title><link>https://692.github.io/note/post/mian-fei-ke-xue-shang-wang-bi-kan-%EF%BC%81-yi-xing-dai-ma-bai-piao-yong-jiu-mian-fei-gao-su-ss-jie-dian.html</link><description>谷歌colab【[点击直达](https://colab.research.google.com/)】   （https://colab.research.google.com/）&#13;
+&#13;
+运行时在代码前面加一行 ：!pip install pyaes&#13;
+&#13;
+相关代码【[点击直达](https://raw.githubusercontent.com/zzzhhh1/ssvpn/refs/heads/main/ss12)】&#13;
+&#13;
+nekoray软件下载和使用教程【[点击直达](https://kjgx668.blogspot.com/2024/06/2024windowsnekoray-tunsing.html)】&#13;
+&#13;
+测速地址：https://www.speedtest.net&#13;
+&#13;
+IP纯净度查询：https://whoer.net&#13;
+&#13;
+# [详细视频教程](https://youtu.be/KGbBKfT4JJk)。</description><guid isPermaLink="true">https://692.github.io/note/post/mian-fei-ke-xue-shang-wang-bi-kan-%EF%BC%81-yi-xing-dai-ma-bai-piao-yong-jiu-mian-fei-gao-su-ss-jie-dian.html</guid><pubDate>Mon, 28 Oct 2024 18:40:16 +0000</pubDate></item><item><title>支持WebDAV的网盘汇总</title><link>https://692.github.io/note/post/zhi-chi-WebDAV-de-wang-pan-hui-zong.html</link><description>支持WebDAV的网盘汇总&#13;
 ------------&#13;
 &#13;
 | 名称 | 免费容量 | WebDAV地址 |&#13;
